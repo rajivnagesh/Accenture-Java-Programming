@@ -1,0 +1,7 @@
+My father bought a whole watermelon and asked me to share with my elder brother. He told that my elder brother will get a share of 75% of the weight of the watermelon and I get a share of 25% of the weight. As we got our shares, there came our friends and hence we decided to share as follows, I will give a 25% of my share and he will give away 75% of his share to our friends which will be divided equally among them.
+
+Now tell me, If my father has bought a watermelon of x Kgs, how much Kgs of watermelon will be received by me, my brother and each of our friends?
+
+Note: 
+
+Both inputs should be Positive, otherwise display "Invalid Input"
